@@ -5,5 +5,5 @@
 ### A 19 de septiembre de 2024
 
 Nombre: *Rodrigo* **López Pérez**
-Edad: ==17 años== 
-
+Edad: ==17 años== ~~14 de octubre de 2006~~
+>ed
