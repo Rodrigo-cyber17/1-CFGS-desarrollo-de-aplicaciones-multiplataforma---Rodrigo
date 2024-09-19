@@ -9,8 +9,8 @@ Nombre: *Rodrigo* **López Pérez**
 Edad: ==17 años== ~~18 años~~
 
 - Nacimineto:
-* 14 de octubre
-+ 2006
+    * 14 de octubre
+        + 2006
 * Mascotas:
     1
     
