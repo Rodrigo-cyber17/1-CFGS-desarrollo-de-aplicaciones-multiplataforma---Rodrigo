@@ -2,5 +2,7 @@
 
 #1º CFGS Desarrollo de Aplicaciones Multiplataforma
 ## LND - Lenguaje de Marcas
-### De Rodrigo López Pérez
+### A 19 de septiembre de 2024
 
+Nombre: *Rodrigo* **López Pérez**
+Edad: ==17 años==
