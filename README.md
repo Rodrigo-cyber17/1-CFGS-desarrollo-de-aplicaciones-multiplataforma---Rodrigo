@@ -2,13 +2,15 @@
 
 #1º CFGS Desarrollo de Aplicaciones Multiplataforma
 ## LND - Lenguaje de Marcas
-### A 19 de septiembre de 2024
+### A ^19^ de septiembre de ~2024~
 
 > Información personal
 Nombre: *Rodrigo* **López Pérez**
 Edad: ==17 años== ~~18 años~~
 
->> Nacimineto:
-14 de  octubre
+  > Nacimineto:
+    14 de  octubre
 
->Mascotas:
+  > Mascotas:
+    1
+    
