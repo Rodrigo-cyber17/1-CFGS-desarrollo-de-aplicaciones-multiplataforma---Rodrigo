@@ -41,11 +41,30 @@ Código
 `código de línea`.
 
 ```
-Presionar star = 'cambiar a la siapositiva Nº2';
+x = 3
+y = 2
+resultado = x + y
+print(resultado)
 ```
 
 ```javascript
-Presionar star = 'cambiar a la siapositiva N2';
+<script>function saludar(){
+  let tiempo = new Date();
+  let  hora, cad="son las ";
+  with (tiempo){
+    hora = getHours();
+    cad += hora + ":" + getMinutes()+":"+getSeconds();
+  }
+if (hora < 12 && hora > 6 )
+   cad = "Buenos días, "+ cad;
+else if (hora < 18)
+   cad = "Buenas tardes, "+ cad;
+else 
+   cad = "Buenas noches, " + cad;
+return cad
+}
+document.write(saludar());
+</script>
 ```
 
 Tablas de gestión
