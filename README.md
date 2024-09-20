@@ -1,4 +1,3 @@
-
 # 1-CFGS-desarrollo-de-aplicaciones-multiplataforma---Rodrigo
 
 ## LND - Lenguaje de Marcas
@@ -31,10 +30,28 @@ Lanzarote
 La isla de [Lanzarote ](https://es.wikipedia.org/wiki/Lanzarote#/media/Archivo:Lanzarote's_Lunar-Like_Landscape.jpg-)
 
 Paisajes de la isla:
-![lol](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5sOU7-w-gV_yyeNH6wX-R9BEnvGa9jPK4w&s)
+![La imagen es un collage/mosaico compuesto por doce fotos diferentes. Estas imágenes muestran diversos paisajes y elementos naturales y arquitectónicos de la isla de Lanzarote. A continuación, te describo lo que aparece en algunas de las fotos:
+
+1.  Paisajes costeros con el mar de fondo, incluyendo acantilados y aguas azules.
+2.  Un molino de viento tradicional.
+3.  Una fortaleza o torre de piedra con una estructura circular en lo alto de una colina.
+4.  Un lago o laguna de color verde.
+5.  Paisajes volcánicos con terrenos rocosos y desérticos.
+6.  Una playa con arena dorada y el mar azul intenso.
+
+Estas imágenes parecen representar escenas de un ambiente árido y volcánico de la isla canaria de Lanzarote.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5sOU7-w-gV_yyeNH6wX-R9BEnvGa9jPK4w&s)
 
 Misma foto de mayor tamaño:
-![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5sOU7-w-gV_yyeNH6wX-R9BEnvGa9jPK4w&s =300x300)
+![La imagen es un collage/mosaico compuesto por doce fotos diferentes. Estas imágenes muestran diversos paisajes y elementos naturales y arquitectónicos de la isla de Lanzarote. A continuación, te describo lo que aparece en algunas de las fotos:
+
+1.  Paisajes costeros con el mar de fondo, incluyendo acantilados y aguas azules.
+2.  Un molino de viento tradicional.
+3.  Una fortaleza o torre de piedra con una estructura circular en lo alto de una colina.
+4.  Un lago o laguna de color verde.
+5.  Paisajes volcánicos con terrenos rocosos y desérticos.
+6.  Una playa con arena dorada y el mar azul intenso.
+
+Estas imágenes parecen representar escenas de un ambiente árido y volcánico de la isla canaria de Lanzarote.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5sOU7-w-gV_yyeNH6wX-R9BEnvGa9jPK4w&s =300x300)
 
 Código
 ---------------------------
