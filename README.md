@@ -51,7 +51,7 @@ Misma foto de mayor tamaño:
 5.  Paisajes volcánicos con terrenos rocosos y desérticos.
 6.  Una playa con arena dorada y el mar azul intenso.
 
-Estas imágenes parecen representar escenas de un ambiente árido y volcánico de la isla canaria de Lanzarote.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5sOU7-w-gV_yyeNH6wX-R9BEnvGa9jPK4w&s =300x300)
+[Estas imágenes parecen representar escenas de un ambiente árido y volcánico de la isla canaria de Lanzarote.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5sOU7-w-gV_yyeNH6wX-R9BEnvGa9jPK4w&s =300x300)
 
 Código
 ---------------------------
