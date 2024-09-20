@@ -22,8 +22,11 @@ Edad: ==17 años== ~~18 años~~
 Objetivos/Metas
 ---------------------------
 [ ] Graduarme de CGFS
+
 [ ] Conseguir el carnet de conducir
+
 [x] Graduarme de Bachillerato
+
 [x] Viajar a países extranjeros
 
 Lanzarote
