@@ -1,4 +1,3 @@
-
 # 1-CFGS-desarrollo-de-aplicaciones-multiplataforma---Rodrigo
 
 ## LND - Lenguaje de Marcas
@@ -19,12 +18,14 @@ Edad: ==17 años== ~~18 años~~
     3. Yina
     4. Lory (periquito) 
 
+
 Objetivos/Metas
 ---------------------------
 [] Graduarme de CGFS
 [] Conseguir el carnet de conducir
 [x] Graduarme de Bachillerato
 [x] Viajar a países extranjeros
+
 
 Lanzarote
 ---------------------------
@@ -35,6 +36,7 @@ Paisajes de la isla:
 
 Misma foto de mayor tamaño:
 ![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5sOU7-w-gV_yyeNH6wX-R9BEnvGa9jPK4w&s =300x300)
+
 
 Código
 ---------------------------
@@ -74,6 +76,7 @@ Estuches | 1
 | IKL | Noelia |
 | ITK | Cristina |
 | ITK 2| Cristina |
+
 
 Tablas de gestión
 ---------------------------
