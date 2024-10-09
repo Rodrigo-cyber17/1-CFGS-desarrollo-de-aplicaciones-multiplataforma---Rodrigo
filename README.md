@@ -31,7 +31,7 @@ Objetivos/Metas
 
 Lanzarote
 ---------------------------
-La isla de [Lanzarote ](https://es.wikipedia.org/wiki/Lanzarote#/media/Archivo:Lanzarote's_Lunar-Like_Landscape.jpg-)
+La isla de [Lanzarote](https://es.wikipedia.org/wiki/Lanzarote#/media/Archivo:Lanzarote's_Lunar-Like_Landscape.jpg-)
 
 Paisajes de la isla:
 La imagen es un collage/mosaico compuesto por doce fotos diferentes. Estas imágenes muestran diversos paisajes y elementos naturales y arquitectónicos de la isla de Lanzarote. A continuación, te describo lo que aparece en algunas de las fotos:
